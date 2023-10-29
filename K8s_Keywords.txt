@@ -7,3 +7,6 @@ What is Context?
 What is Replica Set?
 -> ReplicaSet is a kubernetes object helps in scaling and self healing capabilities of PODS.
 
+What is reconcilation in kubernetes?
+-> The process of matching the desired state to actual state is called Recconcilation.
+
