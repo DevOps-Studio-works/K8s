@@ -1,0 +1,6 @@
+What is Namespace?
+-> Namespaces are native way to divide a single kubernetes cluster into multiple virtual clusters.
+
+What is Context?
+-> Refernce to the kubernetes cluster. We can change current context with kubectl to point to another cluster.
+
