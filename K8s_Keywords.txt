@@ -4,3 +4,6 @@ What is Namespace?
 What is Context?
 -> Refernce to the kubernetes cluster. We can change current context with kubectl to point to another cluster.
 
+What is Replica Set?
+-> ReplicaSet is a kubernetes object helps in scaling and self healing capabilities of PODS.
+
